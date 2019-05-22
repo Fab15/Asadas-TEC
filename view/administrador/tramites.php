@@ -1,6 +1,6 @@
 <div class="page-404 padding ptb-xs-40">
     <div class="container" >
-        <center><h1>Visualizacion de tramites</h1></center>
+        <center><h1>Visualización de trámites</h1></center>
         <br>
         <table class="table table-striped">
           <tr class="warning">
